@@ -5,4 +5,4 @@
 :HL["/media/articles/casual-going-out-fit-how-luxury-streetwear-is-redefining-after-dark-dressing/01-thumb.avif","image",{"fetchPriority":"high"}]
 :HL["/media/articles/fashion-people-and-zara-agree-you-cant-go-wrong-with-this-effortless-3-piece-summer-outfit-idea/01-thumb.avif","image",{"fetchPriority":"high"}]
 :HL["/media/articles/the-4-best-ways-to-digitize-old-photos-and-how-to-store-them/01-thumb.avif","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"TFlbCPqa7-nM_5AkSJnPd"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"6w7SFXqgg3tNONHksukDJ"}

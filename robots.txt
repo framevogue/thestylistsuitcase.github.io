@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://TheStylistSuitcase.com
+Host: https://thestylistsuitcase.com
 Sitemap: https://thestylistsuitcase.com/sitemap.xml
