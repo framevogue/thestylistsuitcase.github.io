@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0nzpzmyo8vn2y.css","style"]
+:HL["/media/articles/every-chic-londoner-is-wearing-one-of-these-5-summer-heatwave-staples-this-weekend/01-thumb.avif","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"every-chic-londoner-is-wearing-one-of-these-5-summer-heatwave-staples-this-weekend","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"TFlbCPqa7-nM_5AkSJnPd"}
