@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/15wuaal-uecha.css","style"]
+:HL["/media/articles/is-ai-antithetical-to-luxury-what-pradas-controversial-campaign-reveals-about-fashions-biggest-tension/01-thumb.avif","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"is-ai-antithetical-to-luxury-what-pradas-controversial-campaign-reveals-about-fashions-biggest-tension","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eDCdaaeuDnnHT4fUIIc1K"}

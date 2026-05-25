@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/15wuaal-uecha.css","style"]
+:HL["/media/articles/which-fashion-brands-are-winning-the-ai-discovery-battle-and-why-it-matters-more-than-seo/01-thumb.avif","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"which-fashion-brands-are-winning-the-ai-discovery-battle-and-why-it-matters-more-than-seo","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eDCdaaeuDnnHT4fUIIc1K"}
