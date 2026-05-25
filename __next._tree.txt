@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/09ry6xu8ku~_~.css","style"]
+:HL["/_next/static/chunks/0wcytd-1._5z0.css","style"]
 :HL["/media/articles/the-4-best-ways-to-digitize-old-photos-and-how-to-store-them/01-thumb.avif","image",{"fetchPriority":"high"}]
 :HL["/media/articles/how-to-shoot-during-golden-hour-lighting-guide/01-thumb.avif","image",{"fetchPriority":"high"}]
 :HL["/media/articles/how-to-photograph-shy-difficult-or-anxious-pets/01-thumb.avif","image",{"fetchPriority":"high"}]
 :HL["/media/articles/how-to-photograph-children-29-tips-for-creative-and-fun-photos/01-thumb.avif","image",{"fetchPriority":"high"}]
 :HL["/media/articles/how-to-format-an-sd-card-on-a-mac/01-thumb.avif","image",{"fetchPriority":"high"}]
 :HL["/media/articles/how-to-fix-bad-lighting-in-photos-on-iphone-lightroom-and-photoshop/01-thumb.avif","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"iyzpYu9LNgj0y5sjIdk6t"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"g1rG5T6WuE6zu7aEa-7Kv"}
